@@ -48,7 +48,7 @@ The class meets twice a week for two 80-minute lectures in person.
 ### Exams
   - To make your life easier: **There is NO midterm**. As an alternative, we ask for scribe notes and reading summary. 
   - There will be a final exam. The final exam will be held in person. Please plan accordingly.
-  - Tentative date: **TBD**.
+  - Final exam date: Dec 10, 11:30am - 2:30pm.
   - The final exam contains ONLY multiple choice questions (select one or all that apply). Some questions will have partial credits.
   - The guideline for time per question is a max of 1min per point. 
   - If you miss an exam, you will get no credit for it, unless you notify the instructor in advance with a university approved reason and receive a makeup exam slot.
