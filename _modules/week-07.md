@@ -1,18 +1,20 @@
 ---
 title: Week 7
 class: DSC204A
-status: not Active
+status: Active
 ---
 
-May 14
-: **1**{: .label} Parallelization - 3
-  : [Slides](assets/slides/11_parallelization-3.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/13)
-: *Reading:* 
-* [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (required)](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf)
+Nov 4
+: **12**{: .label} 
+  <!-- : [Slides]() &#8226; [Recording]() -->
+: **Readings**{: .label .label-reading}  **(Due 11/26)**
+  * **Required**: [Ray: A Distributed Framework for Emerging AI Applications](https://arxiv.org/pdf/1712.05889)
+  * **Optional**: [Discretized Streams: An Efficient and Fault-Tolerant Model for Stream Processing on Large Clusters](https://www.usenix.org/system/files/conference/hotcloud12/hotcloud12-final28.pdf)
 
 
-May 16 
-: **2**{: .label} Parallelization - 4
-  : [Slides](assets/slides/12_parallelization-4.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/sp24/dsc291_d00/14)
-: *Reading:* 
-* [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning (required)](https://www.usenix.org/system/files/osdi22-zheng-lianmin.pdf)
+
+Nov 6
+: **13**{: .label} Guest Lecture - [Prof. Eugene Wu](https://www.cs.columbia.edu/~ewu/)
+  <!-- : [Slides]() &#8226; [Recording]() -->
+: **Readings**{: .label .label-reading}  **(Due 11/26)**
+  * **Required**: [PyTorch: An Imperative Style, High-Performance Deep Learning Library](https://arxiv.org/abs/1912.01703)
