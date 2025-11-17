@@ -25,7 +25,7 @@ description: >-
 | 7  | Guest Talk: Eugene Wu                                                   |
 | 8  | Veterans Day Holiday                                                    |
 | 8  | Guest Talk: Shreya Shankar                                              |
-| 9  | MLSYS: machine learning, Autodiff, Dataflow graphs, GPUs, ML frameworks |
+| 9  | Guest Talk: Audrey Cheng                                                |
 | 9  | Guest Talk: Junchen Jiang                                               |
 | 10 | MLSYS: ML compilation, graph optimizaiton, ML parallelisms              |
 | 11 | MLSYS: ML parallelisms, LLMs, scaling law, training, serving            |

@@ -6,9 +6,9 @@ status: not Active
 
 Nov 25 
 : **16**{: .label} 
-: **Readings**{: .label .label-reading}  **(Due 11/26)**
-  * **Required**: [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/pdf/1312.7651.pdf)
-  * **Optional**: [Megatron-LM: Training Multi-Billion Parameter Language Models Using Model Parallelism](https://arxiv.org/pdf/1909.08053.pdf)
+: **Readings**{: .label .label-reading}  **(Due 11/30)**
+  * **Required**: [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135.pdf)
+  * **Optional**: [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/pdf/1312.7651.pdf)
 
 Nov 27
 : **17**{: .label} Holiday
