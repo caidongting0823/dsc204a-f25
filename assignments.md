@@ -42,6 +42,7 @@ nav_order: 980
 - Code / Submission: Datahub
 - PA3 consists of three tasks, each provided in its own separate notebook.
 - Discussion by TA: Monday, 11/17/2025, 4:00 PM - 5:00 PM ([Zoom](https://ucsd.zoom.us/j/8609071683)) 
+  - Jupyter Notebook: Datahub: public/discussion/pa3.ipynb
 
 
 <script src="../assets/darkmode.js"></script>
