@@ -1,14 +1,18 @@
 ---
 title: Week 10
 class: DSC204A
-status: not Active
+status: Active
 ---
 
 Nov 25 
 : **16**{: .label} 
-: **Readings**{: .label .label-reading}  **(Due 11/30)**
+  <!-- : [Slides](assets/slides/xx.pdf)  -->
+: **Readings**{: .label .label-reading}  **(Due 12/3)**
   * **Required**: [FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness](https://arxiv.org/pdf/2205.14135.pdf)
-  * **Optional**: [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/pdf/1312.7651.pdf)
+  * **Optional**: [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 Nov 27
-: **17**{: .label} Holiday
+: **17**{: .label} Holiday 
+: **Readings**{: .label .label-reading}  **(Due 12/3)**
+  * **Required**: [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/pdf/2309.06180.pdf)
+  * **Optional**: [Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning](https://arxiv.org/pdf/2201.12023)
