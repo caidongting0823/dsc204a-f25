@@ -6,7 +6,7 @@ status: Active
 
 Dec 2
 : **18**{: .label} LLM, attention
-  : [Slides](assets/slides/14. mlsys-3.pdf)  &#8226; [Recording](https://podcast.ucsd.edu/watch/fa25/dsc204a_a00/18)
+  : [Slides](assets/slides/14. mlsys-3.pdf)  &#8226; [Recording](https://podcast.ucsd.edu/watch/fa25/dsc204a_a00/18) &#8226; [Notes](assets/scribe_notes/dec2_scribe.pdf)
 : **Readings**{: .label .label-reading} No required readings!
   * **Optional**: [Fast Inference from Transformers via Speculative Decoding](https://arxiv.org/abs/2211.17192)
 
